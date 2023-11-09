@@ -1,0 +1,16 @@
+Baby Yoda|39|77x67x77|marble|39
+Baby Yoda|39|77x67x77|white|26
+Baby Yoda|39|77x67x77|black|26
+Baby Groot waving|108|123x100x155|wood|109
+Baby Groot waving|108|123x100x155|white|73
+Baby Groot waving|108|123x100x155|black|73
+Baby Groot wondering|101|148x93x150|wood|102
+Baby Groot wondering|101|148x93x150|white|68
+Baby Groot wondering|101|148x93x150|black|68
+Vase 3D|118|110x110x114|white|80
+Vase 3D|118|110x110x114|black|80
+Vase 2 pieces|67|96x96x200|marble and wood|67
+Vase heart shape|400|122x136x226|white|280
+Lighter case "U Cluj"|15|22x30x72|white|10
+Lighter case "U Cluj"|15|22x30x72|black|10
+World cup|257|94x95x239|gold|173
